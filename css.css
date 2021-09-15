@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #666;
+		
+		}
+		a:link {
+	color: #333;
+	text-decoration: none;
+}
+a:visited {
+	color: #333;
+	text-decoration: none;
+}
+a:hover {
+	color: #8BB01C;
+	text-decoration: none;
+}
+a:active {
+	color: #333;
+	text-decoration: none;
+}
+body {
+	background-image: url(img/bg.jpg);
+	background-attachment:fixed;
+	background-position: top center;
+	background-repeat: no-repeat;
+margin: 0;
+padding: 0;
+}
+.boldtext {
+	font-weight: bold;
+}
+.crvenitext
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	color:#C00000;
+	font-weight:bold
+		}
+.zelenitext
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	color:#8BB01C;
+	font-weight:bold
+	}
+	
+	.sivitext
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	color: #999;
+	font-weight:bold
+	}
+	
+	.sivi {
+	color: #666;
+	font-size: 11px;
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+}
+
+.zelenilink {
+	color: #8BB01C;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+.zelenilink a {
+	color: #8BB01C;
+	text-decoration:none;
+}
+.dolesivi
+{
+	padding-top: 10px;
+	background:url(img/dolesivi.png);
+	background-repeat:no-repeat;
+	}
+	.meni
+	{
+	color: #999;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+			}
+		.meni a
+	{
+		color: #666;
+		text-decoration:none;
+		}
+		.meni a:hover
+	{
+	color: #fff;
+	text-decoration: none;
+	background-color:#94ca4c;
+	
+		}
+		.meni2
+	{
+		
+		width: 500;
+		margin-right: 35px;
+		margin-bottom: 2px;
+		
+		}
+	.headerinfo
+	{
+		
+		width: 360;
+		text-align:left;
+		
+		
+		}
+		.boxzeleni
+		{
+			color: #fff;
+			background-color:#8BB01C;
+			padding: 2px;
+			}
+			.slikaobrub
+			{
+				border:#C9E6A2 2px dashed;
+				background-color:#F4F8EA;
+				padding: 5px;
+				
+				
+				}
+				
+				.linijahor
+				{
+					border-top:#C9E6A2 1px dashed;
+				width: 100%;
+				margin-top: 5px;
+				height: 6px;
+					}
+			.boldtext
+			{
+				font-weight:bold}
+				.slikaobrub
+				{
+					  margin-bottom:5px;
+    padding:2px 2px 2px 2px;
+	
+      	  border-color:#FFF;
+   
+					}
